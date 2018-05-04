@@ -16,7 +16,7 @@
     esutils "^2.0.2"
     js-tokens "^3.0.0"
 
-"@moltin/sdk@^2.3.0":
+"@moltin/sdk@^2.11.1":
   version "2.11.1"
   resolved "https://registry.yarnpkg.com/@moltin/sdk/-/sdk-2.11.1.tgz#967afa1b6ad58e642f45a03757cffa2d6ebfb207"
   dependencies:
