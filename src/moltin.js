@@ -1,6 +1,6 @@
 const MoltinGateway = require('@moltin/sdk').gateway;
 
-let client_id = 'sQeIDI0yHh3TsRsgn7mttH8PBZqB3EZ80FCinmX8oS';
+let client_id = process.env.REACT_APP_MOLTIN_CLIENT_ID;
 
 if (process.env.REACT_APP_MOLTIN_CLIENT_ID) {
   client_id = process.env.REACT_APP_MOLTIN_CLIENT_ID;
